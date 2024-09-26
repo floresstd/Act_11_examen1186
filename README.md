@@ -2,8 +2,11 @@
 
 ## Examen
 - Codigo
-  ![Captura de pantalla 2024-09-26 105520](https://github.com/user-attachments/assets/cd5f6048-83a6-4fa6-a8d1-d228f90428ec)
-  ![Captura de pantalla 2024-09-26 105541](https://github.com/user-attachments/assets/38b7a3f5-7be1-41b5-8aca-6e9023b8a280)
+  ![Captura de pantalla 2024-09-26 111643](https://github.com/user-attachments/assets/7f354a99-e6f2-4e03-a212-c4d6248f6a19)
+![Captura de pantalla 2024-09-26 111626](https://github.com/user-attachments/assets/79ac4765-fd23-434a-9784-b32dcee92d20)
+![Captura de pantalla 2024-09-26 111652](https://github.com/user-attachments/assets/5baafff6-8e2c-4b24-b187-36b7318b1bd8)
+
 - Resultado
-  ![Captura de pantalla 2024-09-26 110208](https://github.com/user-attachments/assets/c81c7c68-0f68-467a-b210-0b2f40ccf892)
-  ![Captura de pantalla 2024-09-26 110255](https://github.com/user-attachments/assets/d9c4bfe8-fc20-48a4-a8d3-cbb4cf1f01cc)
+ ![Captura de pantalla 2024-09-26 111841](https://github.com/user-attachments/assets/8fc56373-dcd8-411c-aa38-6a300f38867f)
+![Captura de pantalla 2024-09-26 111823](https://github.com/user-attachments/assets/92825d56-50d5-4ece-96ca-12713ae781f3)
+![Captura de pantalla 2024-09-26 111753](https://github.com/user-attachments/assets/3e39f76c-9698-48d4-bd30-ae8c7c82fa16)
