@@ -1,4 +1,4 @@
-class Alumno1186:
+class Alumno1186: 
     def __init__(self):
         self.productos = ["Pizza", "Hamburguesa", "Ensalada", "Pasta", "Tacos", "Sushi", "Gyoza"]
         self.precios = [8.99, 5.99, 4.50, 7.50, 6.00, 12.00, 9.50]
@@ -15,9 +15,16 @@ class Alumno1186:
         }
         self.ids = {1186, 1187, 1188, 1189, 1190, 1191, 1192}  # IDs únicos de los productos
 
+    def altas0777(self):
+        print("La operación se realizó correctamente para los datos del alumno.")
+
+    def bajas077(self):
+        print("La operación se realizó correctamente para los datos del alumno.")
+
     def Lista_ID_Producto1186(self):
         print("Lista de IDs de Productos:")
-        print(self.ids)
+        for id_producto in self.ids:
+            print(id_producto)
 
     def Nombre1186(self):
         print("Nombres de productos:")
@@ -69,3 +76,7 @@ info.Precio1186()
 info.Stock1186()
 info.Tipo1186()
 info.Fecha_Añadido1186()
+
+# Llamar a las nuevas funciones
+info.altas0777()
+info.bajas077()
